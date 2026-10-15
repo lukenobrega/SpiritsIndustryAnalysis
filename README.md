@@ -136,7 +136,7 @@ This project demonstrated the value of independently identifying an analytical o
 | File | Description |
 |---|---|
 | [dsoprojections.py](dsoprojections.py) | Python source code for data processing, analysis, calculations, and visualizations |
-| [spiritsanalysis(2).pdf](spiritsanalysis(2).pdf| Limited version of the presentation, with sensitive information obscured |
+| [spiritsanalysis(2).pdf](<spiritsanalysis(2).pdf>) | Limited version of the presentation, with sensitive information obscured |
 | [README.md](README.md) | Project overview, methodology, findings, and documentation |
 
 ## Data Confidentiality & Limitations
